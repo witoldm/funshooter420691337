@@ -1,5 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
+// EVERYTHING IS STOLEN
 #pragma once
 
 #include "CoreMinimal.h"
