@@ -10,8 +10,7 @@
 		}
 	],
 	"settings": {
-		"typescript.tsc.autoDetect": "off",
-		"UEIntellisenseFixes.compiler.path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe"
+		"typescript.tsc.autoDetect": "off"
 	},
 	"extensions": {
 		"recommendations": [
